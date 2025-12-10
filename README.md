@@ -1,3 +1,4 @@
+
 # Electronic-Circuits--Colpitt-Oscillator
 ## AIM:
 To simulate a Colpitt Oscillator and to verify the output.
